@@ -1,0 +1,6 @@
+build
+.vscode/*
+thing.webp
+text.txt
+*.idx
+.DS_Store
